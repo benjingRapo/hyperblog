@@ -1,6 +1,11 @@
 esta es la historia de benjing ramos
 
-benjing es un  chico de 6 años que vive en monteria-colombia 
-es una persona humilde y sincera, desea viajar mucho y ara ello se esfuerza en sus metas.
-
+benjing es un  chico de 26 años que vive en monteria-colombia 
+es una persona humilde y sincera, desea viajar mucho y para ello se esfuerza en sus metas.
+Y su pasatiempo es practicar tennis.
 por el momeno solo les comento eso. :)
+ahh y su sueño era ser desarrollador de videojuegos
+
+ahora estudia en latzi para ser buen desarrollador.
+
+se realizaron pruebas con flags para el funcionamiento, eliminacion y restauracion de versiones en git.
