@@ -2,7 +2,15 @@ body
 {
     color: gray;
     text-align: center;
-    font-family: Times New Roman;
+    font-family: Cambria;
+}
+
+#cabecera{
+    background: mediumblue;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 
 #container{
