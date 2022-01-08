@@ -26,3 +26,6 @@ body
     color: maroon;
     font-family: Arial;
 }
+#container p{
+    font-weight: bold;
+}
